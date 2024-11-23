@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icarus-conf&label=Profile%20views&color=0e75b6&style=flat" alt="icarus-conf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icarus-conf" alt="icarus-conf" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Icarus-conf?tab=repositories](https://github.com/Icarus-conf?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@muhammad.fathy](https://medium.com/@muhammad.fathy)
@@ -25,5 +23,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/icarus.dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="icarus.dev" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=icarus-conf&show_icons=true&locale=en&layout=compact" alt="icarus-conf" /></p>
